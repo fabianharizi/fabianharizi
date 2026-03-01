@@ -45,7 +45,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=fabianharizi&theme=radical&show_icons=true)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabianharizi&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fabianharizi&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fabianharizi&theme=tokyonight)
 
 ---
 
