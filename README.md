@@ -45,7 +45,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Fabian's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabianharizi&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=fabianharizi&theme=radical&show_icons=true)
 
 ---
 
