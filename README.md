@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Fabian
+# Fabian Harizi
 
 🎓 Computer Science student  
 💻 Front-end leaning full-stack developer  
