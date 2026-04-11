@@ -26,6 +26,8 @@
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 - ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+### Database
 - ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 
 ### Tools & Other
