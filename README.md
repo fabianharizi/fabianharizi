@@ -28,5 +28,3 @@ Computer Science student at Faculty of Natural Sciences, University of Tirana. F
 ## Currently
 
 Working on [sketch-whiteboard](https://github.com/fabianharizi/sketch-whiteboard) — a web-based interactive drawing canvas built from scratch with vanilla JS.
-
-Alongside that, I'm actively studying AI/ML: how models are trained, how attention mechanisms work, and how to build systems that use them. My path goes through Python and classical ML before moving into deep learning and eventually contributing to real AI-powered products. I'm interested in AI not just as a tool to use, but as a domain to understand deeply and build in.
