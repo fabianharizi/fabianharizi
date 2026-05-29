@@ -1,8 +1,8 @@
 # Fabian Harizi
----
+
 Computer Science student at Faculty of Natural Sciences, University of Tirana. Full-stack developer with a front-end lean — I care about how interfaces think, not just how they look. Currently building toward AI/ML engineering.
 
-
+---
 
 ## Tech stack
 
