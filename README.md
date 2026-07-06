@@ -1,6 +1,6 @@
 # Fabian Harizi
 
-Computer Science student at Faculty of Natural Sciences, University of Tirana. Full-stack developer with a front-end lean — I care about how interfaces think, not just how they look. Currently building toward AI/ML engineering.
+Computer Science student at Faculty of Natural Sciences, University of Tirana. Full-stack developer with a front-end lean — I care about how interfaces think, not just how they look. Actively building toward AI/ML engineering.
 
 ---
 
@@ -27,4 +27,4 @@ Computer Science student at Faculty of Natural Sciences, University of Tirana. F
 
 ## Currently
 
-Working on [sketch-whiteboard](https://github.com/fabianharizi/sketch-whiteboard) — a web-based interactive drawing canvas built from scratch with vanilla JS.
+Working on [sketch-whiteboard](https://github.com/fabianharizi/sketch-whiteboard) — a web-based interactive drawing canvas built in React.
