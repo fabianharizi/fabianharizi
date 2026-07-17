@@ -26,4 +26,4 @@ Computer Science student at Faculty of Natural Sciences, University of Tirana. F
 
 ## Currently
 
-Working on [sketch-whiteboard](https://github.com/fabianharizi/sketch-whiteboard) — a web-based interactive drawing canvas built in React.
+Working on [pane](https://github.com/fabianharizi/pane) — a spatial canvas where AI generates live, interactive widgets
