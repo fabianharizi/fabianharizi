@@ -26,4 +26,4 @@ Computer Science student at Faculty of Natural Sciences, University of Tirana. F
 
 ## Currently
 
-Working on [pane](https://github.com/fabianharizi/pane) — a spatial canvas where AI generates live, interactive widgets
+Working on [Pane](https://github.com/fabianharizi/pane) — a spatial canvas where AI generates live, interactive widgets
